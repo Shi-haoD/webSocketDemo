@@ -1,4 +1,4 @@
-package com.softdev.system.demo.config;
+package com.softdev.system.config;
 
 import com.alibaba.fastjson.JSON;
 import com.alibaba.fastjson.JSONObject;

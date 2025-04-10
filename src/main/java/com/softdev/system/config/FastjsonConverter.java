@@ -1,4 +1,4 @@
-package com.softdev.system.demo.config;
+package com.softdev.system.config;
 
 import java.nio.charset.Charset;
 import java.util.ArrayList;

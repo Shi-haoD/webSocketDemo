@@ -1,0 +1,5 @@
+com\softdev\system\config\WebSocketConfig.class
+com\softdev\system\config\WebSocketServer.class
+com\softdev\system\moduleIntegration.class
+com\softdev\system\controller\DemoController.class
+com\softdev\system\config\FastjsonConverter.class

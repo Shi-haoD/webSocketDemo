@@ -1,6 +1,6 @@
-package com.softdev.system.demo.controller;
+package com.softdev.system.controller;
 
-import com.softdev.system.demo.config.WebSocketServer;
+import com.softdev.system.config.WebSocketServer;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;

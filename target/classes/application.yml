@@ -8,7 +8,7 @@ spring:
         force: true
         charset: UTF-8
     application:
-        name: spring-cloud-study-websocket-reids
+        name: moduleIntegration
     freemarker:
         request-context-attribute: request
         #prefix: /templates/
